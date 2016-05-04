@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/manage/logo.ascx" hash="fffffff638156e4e" filehash="ffffcc2d25550360" flags="110000" assembly="App_Web_eb2a22pq" type="ASP.manage_logo_ascx">
+    <filedeps>
+        <filedep name="/manage/logo.ascx" />
+    </filedeps>
+</preserve>

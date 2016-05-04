@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/manage/profile_history.aspx" hash="fffffff638156e4e" filehash="5f54e815c67859" flags="110000" assembly="App_Web_datbgrmy" type="ASP.manage_profile_history_aspx">
+    <filedeps>
+        <filedep name="/manage.master" />
+        <filedep name="/manage/profile_history.aspx" />
+    </filedeps>
+</preserve>

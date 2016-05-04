@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/projects/mdn1.ake.tw/schedule_item.aspx" hash="fffffff638156e4e" filehash="5689d597e35f65d4" flags="110000" assembly="App_Web_e3epjdws" type="ASP.projects_mdn1_ake_tw_schedule_item_aspx">
+    <filedeps>
+        <filedep name="/index.master" />
+        <filedep name="/projects/mdn1.ake.tw/schedule_item.aspx" />
+        <filedep name="/template.master" />
+    </filedeps>
+</preserve>

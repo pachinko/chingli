@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/manage/terms_history.aspx" hash="fffffff638156e4e" filehash="5f57870e8a6939" flags="110000" assembly="App_Web_nkis4me3" type="ASP.manage_terms_history_aspx">
+    <filedeps>
+        <filedep name="/manage.master" />
+        <filedep name="/manage/terms_history.aspx" />
+    </filedeps>
+</preserve>

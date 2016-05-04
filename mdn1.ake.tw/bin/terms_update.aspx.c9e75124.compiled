@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/manage/terms_update.aspx" hash="fffffff638156e4e" filehash="5f514b0e8f343b" flags="110000" assembly="App_Web_eb2a22pq" type="ASP.manage_terms_update_aspx">
+    <filedeps>
+        <filedep name="/manage.master" />
+        <filedep name="/manage/terms_update.aspx" />
+    </filedeps>
+</preserve>

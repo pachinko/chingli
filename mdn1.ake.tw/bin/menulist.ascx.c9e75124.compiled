@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/manage/MenuList.ascx" hash="fffffff638156e4e" filehash="196ff7bc644b" flags="110000" assembly="App_Web_nkis4me3" type="ASP.manage_menulist_ascx">
+    <filedeps>
+        <filedep name="/manage/MenuList.ascx" />
+    </filedeps>
+</preserve>

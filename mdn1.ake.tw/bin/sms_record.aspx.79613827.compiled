@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/system/sms_Record.aspx" hash="fffffff638156e4e" filehash="5f633352363185" flags="110000" assembly="App_Web_rtpfppop" type="ASP.system_sms_record_aspx">
+    <filedeps>
+        <filedep name="/manage.master" />
+        <filedep name="/system/sms_Record.aspx" />
+    </filedeps>
+</preserve>

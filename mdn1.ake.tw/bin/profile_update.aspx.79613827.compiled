@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/system/profile_update.aspx" hash="fffffff638156e4e" filehash="ffa0a952890de169" flags="110000" assembly="App_Web_rtpfppop" type="ASP.system_profile_update_aspx">
+    <filedeps>
+        <filedep name="/manage.master" />
+        <filedep name="/system/profile_update.aspx" />
+    </filedeps>
+</preserve>

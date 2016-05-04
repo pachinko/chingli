@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/manage/period.aspx" hash="fffffff638156e4e" filehash="5f89913171a05c" flags="110000" assembly="App_Web_datbgrmy" type="ASP.manage_period_aspx">
+    <filedeps>
+        <filedep name="/manage.master" />
+        <filedep name="/manage/period.aspx" />
+    </filedeps>
+</preserve>

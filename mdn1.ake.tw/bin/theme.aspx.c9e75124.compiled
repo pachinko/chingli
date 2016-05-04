@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/manage/theme.aspx" hash="fffffff638156e4e" filehash="5f5dc4ea526562" flags="110000" assembly="App_Web_eb2a22pq" type="ASP.manage_theme_aspx">
+    <filedeps>
+        <filedep name="/manage.master" />
+        <filedep name="/manage/theme.aspx" />
+    </filedeps>
+</preserve>

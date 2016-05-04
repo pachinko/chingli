@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/manage/help_delete.aspx" hash="fffffff638156e4e" filehash="5f836e3e257120" flags="110000" assembly="App_Web_eb2a22pq" type="ASP.manage_help_delete_aspx">
+    <filedeps>
+        <filedep name="/manage.master" />
+        <filedep name="/manage/help_delete.aspx" />
+    </filedeps>
+</preserve>

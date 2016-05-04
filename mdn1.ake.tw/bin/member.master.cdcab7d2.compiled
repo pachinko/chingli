@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/member.master" hash="fffffff638156e4e" filehash="e2652029ab9470a6" flags="110000" assembly="App_Web_b0xoeyc3" type="ASP.member_master">
+    <filedeps>
+        <filedep name="/index.master" />
+        <filedep name="/member.master" />
+        <filedep name="/template.master" />
+    </filedeps>
+</preserve>

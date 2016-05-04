@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/manage/main_json.aspx" hash="fffffff638156e4e" filehash="ffffd44413ba02c5" flags="110000" assembly="App_Web_nkis4me3" type="ASP.manage_main_json_aspx">
+    <filedeps>
+        <filedep name="/manage/main_json.aspx" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/system/memtype.aspx" hash="fffffff638156e4e" filehash="5f59c144027745" flags="110000" assembly="App_Web_i1isjrrd" type="ASP.system_memtype_aspx">
+    <filedeps>
+        <filedep name="/manage.master" />
+        <filedep name="/system/memtype.aspx" />
+    </filedeps>
+</preserve>

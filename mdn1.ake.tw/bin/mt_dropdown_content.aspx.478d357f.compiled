@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/script/mt_dropdown_content.aspx" hash="fffffff638156e4e" filehash="9b6612f932f" flags="110000" assembly="App_Web_gze5kzys" type="ASP.script_mt_dropdown_content_aspx">
+    <filedeps>
+        <filedep name="/script/mt_dropdown_content.aspx" />
+    </filedeps>
+</preserve>

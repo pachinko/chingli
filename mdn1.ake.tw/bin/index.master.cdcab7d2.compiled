@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/index.master" hash="fffffff638156e4e" filehash="fca1d30e6a7c1fcc" flags="110000" assembly="App_Web_bkirgvk2" type="ASP.index_master">
+    <filedeps>
+        <filedep name="/index.master" />
+        <filedep name="/template.master" />
+    </filedeps>
+</preserve>

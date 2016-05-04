@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/manage/menu_update.aspx" hash="fffffff638156e4e" filehash="5f8d2d797bcdfd" flags="110000" assembly="App_Web_eb2a22pq" type="ASP.manage_menu_update_aspx">
+    <filedeps>
+        <filedep name="/manage.master" />
+        <filedep name="/manage/menu_update.aspx" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/projects/mdn1.ake.tw/announce.aspx" hash="fffffff638156e4e" filehash="c5e46328d114245c" flags="110000" assembly="App_Web_e3epjdws" type="ASP.projects_mdn1_ake_tw_announce_aspx">
+    <filedeps>
+        <filedep name="/index.master" />
+        <filedep name="/projects/mdn1.ake.tw/announce.aspx" />
+        <filedep name="/template.master" />
+    </filedeps>
+</preserve>

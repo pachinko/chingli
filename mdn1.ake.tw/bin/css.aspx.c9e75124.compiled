@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/manage/css.aspx" hash="fffffff638156e4e" filehash="5f6d97e78d4ed5" flags="110000" assembly="App_Web_datbgrmy" type="ASP.manage_css_aspx">
+    <filedeps>
+        <filedep name="/manage.master" />
+        <filedep name="/manage/css.aspx" />
+    </filedeps>
+</preserve>

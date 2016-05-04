@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/manage/sites.aspx" hash="fffffff638156e4e" filehash="ffa0a2a2e53fa14a" flags="110000" assembly="App_Web_nkis4me3" type="ASP.manage_sites_aspx">
+    <filedeps>
+        <filedep name="/manage.master" />
+        <filedep name="/manage/sites.aspx" />
+    </filedeps>
+</preserve>

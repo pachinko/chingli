@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/system/dns_show.aspx" hash="fffffff638156e4e" filehash="ffa097e24eea504b" flags="110000" assembly="App_Web_i1isjrrd" type="ASP.system_dns_show_aspx">
+    <filedeps>
+        <filedep name="/manage.master" />
+        <filedep name="/system/dns_show.aspx" />
+    </filedeps>
+</preserve>

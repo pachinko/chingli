@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/product.master" hash="fffffff638156e4e" filehash="c78436dfb8e5338" flags="110000" assembly="App_Web_bkirgvk2" type="ASP.product_master">
+    <filedeps>
+        <filedep name="/product.master" />
+        <filedep name="/template.master" />
+    </filedeps>
+</preserve>

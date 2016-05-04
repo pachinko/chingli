@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/manage/help_update.aspx" hash="fffffff638156e4e" filehash="ffa0a34b28426b70" flags="110000" assembly="App_Web_eb2a22pq" type="ASP.manage_help_update_aspx">
+    <filedeps>
+        <filedep name="/manage.master" />
+        <filedep name="/manage/help_update.aspx" />
+    </filedeps>
+</preserve>

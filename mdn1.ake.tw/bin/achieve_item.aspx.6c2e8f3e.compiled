@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/projects/mdn1.ake.tw/achieve_item.aspx" hash="fffffff638156e4e" filehash="76b1f65882c4f4a1" flags="110000" assembly="App_Web_xzle54vv" type="ASP.projects_mdn1_ake_tw_achieve_item_aspx">
+    <filedeps>
+        <filedep name="/index.master" />
+        <filedep name="/projects/mdn1.ake.tw/achieve_item.aspx" />
+        <filedep name="/template.master" />
+    </filedeps>
+</preserve>

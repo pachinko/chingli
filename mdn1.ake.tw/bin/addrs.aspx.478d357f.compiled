@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/script/addrs.aspx" hash="fffffff638156e4e" filehash="ffffbaf3986226c2" flags="110000" assembly="App_Web_gze5kzys" type="ASP.script_addrs_aspx">
+    <filedeps>
+        <filedep name="/script/addrs.aspx" />
+    </filedeps>
+</preserve>

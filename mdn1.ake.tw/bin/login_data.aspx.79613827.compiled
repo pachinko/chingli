@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/system/login_data.aspx" hash="fffffff638156e4e" filehash="ffa07605e4aa457d" flags="110000" assembly="App_Web_i1isjrrd" type="ASP.system_login_data_aspx">
+    <filedeps>
+        <filedep name="/manage.master" />
+        <filedep name="/system/login_data.aspx" />
+    </filedeps>
+</preserve>

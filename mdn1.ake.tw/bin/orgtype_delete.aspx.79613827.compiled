@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/system/orgtype_delete.aspx" hash="fffffff638156e4e" filehash="ffa09306f2c16515" flags="110000" assembly="App_Web_rtpfppop" type="ASP.system_orgtype_delete_aspx">
+    <filedeps>
+        <filedep name="/manage.master" />
+        <filedep name="/system/orgtype_delete.aspx" />
+    </filedeps>
+</preserve>

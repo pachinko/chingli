@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/system/orgtype.aspx" hash="fffffff638156e4e" filehash="ffa07a31a3b84425" flags="110000" assembly="App_Web_rtpfppop" type="ASP.system_orgtype_aspx">
+    <filedeps>
+        <filedep name="/manage.master" />
+        <filedep name="/system/orgtype.aspx" />
+    </filedeps>
+</preserve>

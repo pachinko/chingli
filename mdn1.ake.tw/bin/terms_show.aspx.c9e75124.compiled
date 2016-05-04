@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/manage/terms_show.aspx" hash="fffffff638156e4e" filehash="5f661e3c8d3743" flags="110000" assembly="App_Web_datbgrmy" type="ASP.manage_terms_show_aspx">
+    <filedeps>
+        <filedep name="/manage.master" />
+        <filedep name="/manage/terms_show.aspx" />
+    </filedeps>
+</preserve>

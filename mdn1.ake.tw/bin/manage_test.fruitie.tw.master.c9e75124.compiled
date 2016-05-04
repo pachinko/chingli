@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/manage/manage_test.fruitie.tw.master" hash="fffffff638156e4e" filehash="fffff10b39e12dad" flags="110000" assembly="App_Web_datbgrmy" type="ASP.manage_manage_test_fruitie_tw_master">
+    <filedeps>
+        <filedep name="/manage/manage_test.fruitie.tw.master" />
+    </filedeps>
+</preserve>
