@@ -1,0 +1,196 @@
+
+.8PT        { font-size: 8pt ; font-family: Arial,新細明體; color: #5f5f5f }
+
+.8PT_150        { font: 8pt ; font-family: Arial,新細明體; color: #5f5f5f; line-height: 150%  }
+
+.8PT_160        { font-size: 8pt ; font-family: Arial,新細明體; color: #5f5f5f; line-height: 160%  }
+
+.8PT_170        { font-size: 8pt ; font-family: Arial,新細明體; color: #5f5f5f; line-height: 170%  }
+
+.9PT        { font-size: 9pt ; font-family: Arial,新細明體; color: #5f5f5f }
+
+.9PT_150        { font-size: 10pt ; font-family: Arial,新細明體; color: #5f5f5f; line-height: 150%  }
+
+.9PT_160        { font-size: 10pt ; font-family: Arial,新細明體; color: #5f5f5f; line-height: 160%  }
+
+.9PT_170        { font-size: 10pt ; font-family: Arial,新細明體; color: #5f5f5f; line-height: 170%  }
+
+.9PT_180        { font-size: 10pt ; font-family: Arial,新細明體; color: #5f5f5f; line-height: 180%  }
+
+.9PT_200        { font-size: 10pt ; font-family: Arial,新細明體; color: #5f5f5f; line-height: 200%  }
+
+.10PT        { font-size: 10pt ; font-family: Arial,新細明體; color: #5f5f5f }
+
+.10PT_200    { font-size: 10pt ; font-family: Arial,新細明體; color: #5f5f5f; line-height: 200% }
+
+.10PT_170    { font-size: 10pt ; font-family: Arial,新細明體; color: #5f5f5f; line-height: 170% }
+
+.10PT_150    { font-size: 10pt ; font-family: Arial,新細明體; color: #5f5f5f; line-height: 150% }
+
+.10PT_160    { font-size: 10pt ; font-family: Arial,新細明體; color: #5f5f5f; line-height: 160% }
+
+.12PT_180    { font-size: 12pt ; font-family: Arial,新細明體; color: #5f5f5f; line-height: 180% }
+
+.12PT_170    { font-size: 12pt ; font-family: Arial,新細明體; color: #5f5f5f; line-height: 170% }
+
+.12PT_160    { font-size: 12pt ; font-family: Arial,新細明體; color: #5f5f5f; line-height: 160% }
+
+.11PT    { font-size: 11pt ; font-family: Arial,新細明體; color: #5f5f5f }
+
+.11PT_200    { font-size: 11pt ; font-family: Arial,新細明體; color: #5f5f5f; line-height: 200% }
+
+.11PT_180    { font-size: 11pt ; font-family: Arial,新細明體; color: #5f5f5f; line-height: 180% }
+
+.11PT_170    { font-size: 11pt ; font-family: Arial,新細明體; color: #5f5f5f; line-height: 170% }
+
+.11PT_160    { font-size: 11pt ; font-family: Arial,新細明體; color: #5f5f5f; line-height: 160% }
+
+.11PT_150    { font-size: 11pt ; font-family: Arial,新細明體; color: #5f5f5f; line-height: 150% }
+
+.15px         { font-size: 15px ; font-family: Arial,新細明體; color: #5f5f5f; line-height: 150% }
+
+.14px         { font-size: 14px ; font-family: Arial,新細明體; color: #5f5f5f; line-height: 150% }
+
+.13px         { font-size: 13px ; font-family: Arial,新細明體; color: #5f5f5f; line-height: 150% }
+
+.12px         { font-size: 12px ; font-family: Arial,新細明體; color: #5f5f5f; line-height: 150% }
+
+.11px         { font-size: 11px ; font-family: Arial,新細明體; color: #5f5f5f; line-height: 150% }
+
+.h1 { font-size: 2.0em; font-family: Arial,新細明體; color: #5f5f5f; line-height: 150% }
+.h2 { font-size: 1.8em; font-family: Arial,新細明體; color: #5f5f5f; line-height: 150% }
+.h3 { font-size: 1.6em; font-family: Arial,新細明體; color: #5f5f5f; line-height: 150% }
+.h4 { font-size: 1.4em; font-family: Arial,新細明體; color: #5f5f5f; line-height: 150% }
+.h5 { font-size: 1.2em; font-family: Arial,新細明體; color: #5f5f5f; line-height: 150% }
+.h6 { font-size: 1.0em; font-family: Arial,新細明體; color: #5f5f5f; line-height: 150% }
+
+
+a {
+text-decoration: none;
+}
+
+/*圖陰影*/
+.out{
+  display:block;
+  background:#ddd;
+  position:relative;
+  }
+.in {
+  background:#fff;
+  border:1px solid #999;
+  position:relative;
+  text-align:center;
+  padding:5px;
+  left:-2px;
+  top:-2px;
+  }
+  
+.out2{
+  display:block;
+  background:#ddd;
+  position:relative;
+  width:1em;
+  }
+.in2 {
+  background:#fff;
+  border:1px solid #999;
+  position:relative;
+  text-align:center;
+  padding:1px;
+  left:-1px;
+  top:-1px;
+  }
+  
+/*輸入框*/
+.keyin{ 
+	font-size: 11pt; 
+	font-family: "Arial","新細明體" ; 
+	color: #000000; 
+	border: 1px solid #999999; 
+	background-image:url('../images/keyin.gif')
+	}
+
+.keyin10{ 
+	font-size: 10pt; 
+	font-family: "Arial","新細明體" ; 
+	color: #000000; 
+	border: 1px solid #999999; 
+	background-image:url('../images/keyin.gif')
+	}
+	
+.keyin11{ 
+	font-size: 11pt; 
+	font-family: "Arial","新細明體" ; 
+	color: #000000; 
+	border: 1px solid #999999; 
+	background-image:url('../images/keyin.gif')
+	}
+
+.keyin12{ 
+	font-size: 12pt; 
+	font-family: "Arial","新細明體" ; 
+	color: #000000; 
+	border: 1px solid #999999; 
+	background-image:url('../images/keyin.gif')
+	}
+	
+.keyin12-1{ 
+	font-size: 12pt; 
+	font-family: "Arial","新細明體" ; 
+	color: #000000; 
+	border-collapse: collapse;
+	background-image:url('../images/keyin.gif')
+	}
+
+body{background-color: F3F3F3;}
+
+	a:link.cidkligk {font: "arial"; text-decoration: none; color:#0000FF} 
+	a:link 	   {font: "arial"; text-decoration: none; color:404040} 
+	a:visited  {font: "arial"; text-decoration: none; color:008A88}
+	a:active   {font: "arial"; text-decoration: none; color:008A88} 
+	a:hover    {font: "arial"; text-decoration: underline;position:relative;top:1px;left:1px}
+	
+	
+	.button {
+	display: inline-block;
+	outline: none;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: none;
+	font: 14px/100% Arial, Helvetica, sans-serif;
+	padding: .5em 2em .55em;
+	text-shadow: 0 1px 1px rgba(0,0,0,.3);
+	-webkit-border-radius: .5em;
+	-moz-border-radius: .5em;
+	border-radius: .5em;
+	-webkit-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+	-moz-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+	box-shadow: 0 1px 2px rgba(0,0,0,.2);
+}
+.button:hover {
+	text-decoration: none;
+}
+.button:active {
+	position: relative;
+	top: 1px;
+}
+.orange {
+	color: #fef4e9;
+	border: solid 1px #da7c0c;
+	background: #f78d1d;
+	background: -webkit-gradient(linear, left top, left bottom, from(#faa51a), to(#f47a20));
+	background: -moz-linear-gradient(top,  #faa51a,  #f47a20);
+	filter:  progid: DXImageTransform.Microsoft.gradient(startColorstr='#faa51a', endColorstr='#f47a20');
+}
+.orange:hover {
+	background: #f47c20;
+	background: -webkit-gradient(linear, left top, left bottom, from(#f88e11), to(#f06015));
+	background: -moz-linear-gradient(top,  #f88e11,  #f06015);
+	filter:  progid: DXImageTransform.Microsoft.gradient(startColorstr='#f88e11', endColorstr='#f06015');
+}
+.orange:active {
+	color: #fcd3a5;
+	background: -webkit-gradient(linear, left top, left bottom, from(#f47a20), to(#faa51a));
+	background: -moz-linear-gradient(top,  #f47a20,  #faa51a);
+	filter:  progid: DXImageTransform.Microsoft.gradient(startColorstr='#f47a20', endColorstr='#faa51a');
+}

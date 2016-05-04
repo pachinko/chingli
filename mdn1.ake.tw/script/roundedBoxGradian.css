@@ -1,0 +1,59 @@
+/* Header */
+.roundedBoxGradian{
+	position:relative;
+}
+
+.roundedBoxGradian .hd .c, .roundedBoxGradian .ft .c {
+	font-size:1px; /* ensure minimum height */
+	height:16px;
+}
+
+.roundedBoxGradian .hd {
+	background:transparent url(../images/roundedBox/gradian/tl.png) no-repeat 0px 0px;
+ /* space for right corner */
+}
+
+.roundedBoxGradian .hd .c {
+	background:transparent url(../images/roundedBox/gradian/tr.png) no-repeat right 0px;
+ /* pull right corner back over "empty" space (from above margin) */
+}
+
+
+/* Body */
+.roundedBoxGradian .bd {
+	background:transparent url(../images/roundedBox/gradian/ml.png) repeat-y 0px 0px;
+}
+
+.roundedBoxGradian .bd .c {
+	background:transparent url(../images/roundedBox/gradian/mr.png) repeat-y right 0px;
+}
+
+.roundedBoxGradian .bd .c .s {
+	margin:0px 12px 0px 6px;
+	background:url(../images/roundedBox/gradian/ms.png) repeat-x 0px 0px;
+	padding:25px 5px 10px 5px;!important
+}
+
+
+/* Footer */
+.roundedBoxGradian .ft {
+	background:transparent url(../images/roundedBox/gradian/bl.png) no-repeat 0px 0px;
+
+}
+
+.roundedBoxGradian .ft .c {
+	background:transparent url(../images/roundedBox/gradian/br.png) no-repeat right 0px;
+}
+
+
+.roundedBoxGradian .title{
+	position:absolute;
+	left:6px;
+	top:9px;
+	background:transparent url(../images/roundedBox/gradian/title_bg.png) no-repeat right 0px;
+	width:103px;
+	height:31px;
+	color:#225e9c;
+	font-weight:bold;
+	text-align:center;
+}

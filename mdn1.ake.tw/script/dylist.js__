@@ -1,0 +1,17 @@
+﻿(function($){
+    var dyList = window.dyList = {
+        dyItems:[]
+        , e_EObj: null
+        , ts_dyObj: function (as_ID) {}
+        , F_setval: function (o) {}
+        , F_load_data: function (o) {}
+        , Init: function () {}
+    };
+
+})(jQuery);
+
+$(function () {
+    dyList.Init();
+    alert('test'); 
+});
+

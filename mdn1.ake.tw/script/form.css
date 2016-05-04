@@ -1,0 +1,50 @@
+.formTable{
+
+}
+
+.formTable .formTitle{
+	font-size:15px;
+	font-weight:bold;
+	color:#3964a0;
+}
+
+.formTable .innerTable{
+	background:#dededf;
+}
+
+.formTable .innerTable tr td{
+	background:#FFF;
+}
+
+.formTable .innerTable tr td:first-child{
+	background:#c5dcf1;
+	padding:5px 0px 0px 20px;
+	color:#666;
+}
+
+.formTable .gray{
+	color:#999;
+	font-weight:bold;
+}
+
+.formTable .blue{
+	color:#3964a0;
+	font-weight:bold;
+}
+
+.formTable .yellow{
+	color:#fec95d;
+	font-weight:bold;
+}
+
+.formTable .blueBG{
+	background:#C5DCF1;
+	color:#999;
+	padding:3px;
+}
+
+.formTable .grayBG{
+	background:#999;
+
+	padding:3px;
+}

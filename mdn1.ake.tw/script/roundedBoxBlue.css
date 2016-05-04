@@ -1,0 +1,46 @@
+/* Header */
+.roundedBox{
+
+}
+
+.roundedBox .hd .c, .roundedBox .ft .c {
+	font-size:1px; /* ensure minimum height */
+	height:7px;
+}
+
+.roundedBox .hd {
+	background:transparent url(../images/roundedBox/blue/tl.png) no-repeat 0px 0px;
+ /* space for right corner */
+}
+
+.roundedBox .hd .c {
+	background:transparent url(../images/roundedBox/blue/tr.png) no-repeat right 0px;
+ /* pull right corner back over "empty" space (from above margin) */
+}
+
+
+/* Body */
+.roundedBox .bd {
+	background:transparent url(../images/roundedBox/blue/ml.png) repeat-y 0px 0px;
+}
+
+.roundedBox .bd .c {
+	background:transparent url(../images/roundedBox/blue/mr.png) repeat-y right 0px;
+}
+
+.roundedBox .bd .c .s {
+	margin:0px 8px 0px 4px;
+	background:url(../images/roundedBox/blue/ms.png) repeat-x 0px 0px;
+	padding:3px;!important
+}
+
+
+/* Footer */
+.roundedBox .ft {
+	background:transparent url(../images/roundedBox/blue/bl.png) no-repeat 0px 0px;
+
+}
+
+.roundedBox .ft .c {
+	background:transparent url(../images/roundedBox/blue/br.png) no-repeat right 0px;
+}

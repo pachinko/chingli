@@ -1,0 +1,120 @@
+/* Header */
+.roundedBoxGradianBlue{
+	position:relative;
+}
+
+.roundedBoxGradianBlue .hd{
+	font-size:1px; /* ensure minimum height */
+	height:53px;
+}
+
+.roundedBoxGradianBlue .hd {
+	background:transparent url(../images/roundedBox/gradianBlue/tl.png) no-repeat 0px 0px;
+ /* space for right corner */
+}
+
+.roundedBoxGradianBlue .hd .c {
+	background:transparent url(../images/roundedBox/gradianBlue/tr.png) no-repeat right 0px;
+ /* pull right corner back over "empty" space (from above margin) */
+	height:53px;
+}
+
+
+/* Body */
+.roundedBoxGradianBlue .bd {
+	background:transparent url(../images/roundedBox/gradianBlue/ml.png) repeat-y 0px 0px;
+}
+
+.roundedBoxGradianBlue .bd .c {
+	background:transparent url(../images/roundedBox/gradianBlue/mr.png) repeat-y right 0px;
+	height:100%;
+}
+
+.roundedBoxGradianBlue .bd .c .s {
+	margin:0px 8px 0px 9px;
+	background:url(../images/roundedBox/gradianBlue/ms.png) repeat-x 0px 0px;
+	padding:0px 5px 1px 5px;!important;
+}
+
+
+/* Footer */
+.roundedBoxGradianBlue .ft .c {
+	font-size:1px; /* ensure minimum height */
+	height:19px;
+}
+
+.roundedBoxGradianBlue .ft {
+	background:transparent url(../images/roundedBox/gradianBlue/bl.png) no-repeat 0px 0px;
+
+}
+
+.roundedBoxGradianBlue .ft .c {
+	background:transparent url(../images/roundedBox/gradianBlue/br.png) no-repeat right 0px;
+}
+
+
+.roundedBoxGradianBlue .title{
+	position:absolute;
+
+}
+
+/* Header icon and title */
+.roundedBoxGradianBlue .hd{
+	position:relative;
+}
+
+.roundedBoxGradianBlue .icon{
+	position:absolute;
+	top:15px;
+	left:15px;
+	width:19px;
+	height:20px;
+	background:url(../images/roundedBox/gradianBlue/icon.png);
+}
+
+
+.roundedBoxGradianBlue .title{
+	position:absolute;
+	top:16px;
+	left:40px;
+	width:170px;
+	height:20px;
+	font-weight:bold;
+	font-size:15px;
+}
+
+/* Buttons */
+.roundedBoxGradianBlue .bd .c .s ul{
+	padding:0px;
+	margin:0px 0px 0px 0px;
+	list-style:none;
+}
+
+.roundedBoxGradianBlue .bd .c .s li{
+	padding:0px;
+	margin:0px 0px 1px 0px; /* Space between buttons */
+
+	background:url(../images/roundedBox/gradianBlue/bt_off.png) no-repeat;
+	width:188px;
+	height:27px;
+}
+
+.roundedBoxGradianBlue .bd .c .s li.selected{
+	background:url(../images/roundedBox/gradianBlue/bt_on.png) no-repeat;
+}
+
+.roundedBoxGradianBlue .bd .c .s li a{
+	color:#999;
+	text-decoration:none;
+	display:block;
+	font-weight:bold;
+	padding:6px 0px 0px 20px;/* Text position */
+	margin:0px;
+	width:100%;
+	height:100%;
+}
+
+.roundedBoxGradianBlue .bd .c .s p{
+	padding:0px;
+	margin:0px;
+}

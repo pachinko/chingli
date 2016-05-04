@@ -1,0 +1,51 @@
+/* Header */
+.bodyRounded{
+	height:500px;
+}
+
+.bodyRounded > .hd > .c{
+	font-size:1px; /* ensure minimum height */
+	height:11px;
+}
+
+.bodyRounded > .hd {
+	background:transparent url(../images/roundedBox/body/tl.png) no-repeat 0px 0px;
+ /* space for right corner */
+}
+
+.bodyRounded > .hd > .c {
+	background:transparent url(../images/roundedBox/body/tr.png) no-repeat right 0px;
+ /* pull right corner back over "empty" space (from above margin) */
+}
+
+
+/* Body */
+.bodyRounded > .bd {
+	background:transparent url(../images/roundedBox/body/ml.png) repeat-y 0px 0px;
+}
+
+.bodyRounded > .bd > .c {
+	background:transparent url(../images/roundedBox/body/mr.png) repeat-y right 0px;
+}
+
+.bodyRounded > .bd > .c > .s {
+	margin:0px 8px 0px 4px;
+	background:url(../images/roundedBox/body/ms.png) repeat-x 0px 0px;
+	padding:5px;!important
+}
+
+
+/* Footer */
+.bodyRounded > .ft > .c {
+	font-size:1px; /* ensure minimum height */
+	height:13px;
+}
+
+.bodyRounded > .ft {
+	background:transparent url(../images/roundedBox/body/bl.png) no-repeat 0px 0px;
+
+}
+
+.bodyRounded > .ft > .c {
+	background:transparent url(../images/roundedBox/body/br.png) no-repeat right 0px;
+}

@@ -1,0 +1,59 @@
+div.calculator .boxContent p{
+	margin:0px;
+	padding:0px;
+}
+
+div.calculator .boxContent .result > div{
+	float:left;
+}
+
+div.calculator .boxContent .currency{
+	font-size:13px;
+	margin:12px 0px 0px 15px;
+}
+
+div.calculator .boxContent .number{
+	font-size:20px;
+	color:#fcc75a;
+	margin:5px;
+	text-align:right;
+}
+
+div.calculator .boxContent .unit{
+	font-size:13px;
+	margin:12px 0px 0px 5px;
+}
+
+div.calculator .boxContent #calBottom{
+	height:60px;
+	position:relative;
+	margin:5px 0px 0px 0px;line-height: 20px;
+}
+
+div.calculator .boxContent #calBottom > div{
+	position:absolute
+}
+
+div.calculator .boxContent #calBottom  #calButton{
+	right:0px;
+	bottom:0px;
+}
+
+div.calculator .boxContent #calBottom #calText{
+	font-size:11px;
+}
+
+div.calculator #input{
+	margin:3px 0px 0px 15px;
+	line-height:25px;
+}
+
+div.calculator #input input{
+	font-size:11px;
+	height:10px;
+	padding:1px;
+}
+
+div.calculator #partners{
+	text-align:center;
+}

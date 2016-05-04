@@ -1,0 +1,165 @@
+body{
+	font-size:13px;
+	font-family:Helvetica, Arial, sans-serif;
+	margin:0px;
+	padding:0px;
+	background:url(../images/bg.png) repeat-x;
+}
+
+a{
+	color:#436ca5;
+	text-decoration:none;
+}
+
+a:hover{
+	text-decoration:underline;
+}
+
+.grayText{
+	color:#949493;
+}
+
+.darkGrayText{
+	color:#666;
+}
+
+.blueText{
+	color:#436ca5;
+}
+
+#wrapper{
+	position:relative;
+}
+
+
+/* Header Settings */
+#header{
+	height:119px;
+	margin:0px 0px 20px 0px;
+	position:relative;
+}
+
+#header #headerWrapper{
+	width:850px;
+	position:relative;
+	margin:0px auto;
+	height:100%;
+
+}
+
+#header #logo{
+	position:absolute;
+	width:177px;
+	height:104px;
+	left:0px;
+}
+
+#header #login{
+	position:absolute;
+	width:82px;
+	height:29px;
+	right:0px;
+	top:0px;
+}
+
+#header #menu{
+	position:absolute;
+	width:544px;
+	height:45px;
+	right:0px;
+	bottom:10px;
+}
+
+/* Header Settings */
+
+#content{
+	width:850px;
+	margin:0px auto;
+	/*opacity:0.1;
+	filter:alpha(opacity=10);*/
+}
+
+/* Space in the bottom */
+#content > .bodyRounded > .ft{
+	padding:0px 0px 30px 0px;
+}
+
+#body{
+	overflow:hidden;
+	padding:15px;
+}
+
+#body > div{
+	float:left;
+
+}
+
+#leftBox{
+	width:220px;
+
+}
+
+#leftBox > div{
+	margin: 0px 0px 20px 0px;
+}
+
+#seperate{
+	width:1px;
+	height:530px;
+	background:#bdcbe1;
+	margin:0px 20px 0px 20px;
+}
+
+#rightBox{
+	width:520px;
+}
+
+
+.boxHeader{
+	background:url(../images/boxHeader.png);
+	width: 205px;
+	height:23px;
+}
+
+.boxHeader .boxTitle{
+	margin:0px 3px 0px 5px;
+	padding:2px 0px 0px 0px;
+	color:#FFF;
+}
+
+.roundedBoxGradian{
+	width:500px;
+}
+
+/* Footer */
+#bottom{
+	margin:0px 0px 5px 0px;
+}
+
+#bottom > div{
+	text-align:center;
+	margin:3px 0px;
+}
+
+#bottom .service{
+	background:url(../images/bottom_bg.png) no-repeat;
+	width:830px;
+	height:28px;
+	padding:5px 0px 0px 0px;
+	overflow:hidden;
+	color:#3b75ad;
+}
+
+#bottom .service a{
+	text-decoration:none;
+	color:#3b75ad;
+	font-weight:bold;
+}
+
+#bottom .service a:hover{
+	text-decoration:underline;
+}
+
+#bottom .copyRight{
+	color:#c5d9ee;
+}
